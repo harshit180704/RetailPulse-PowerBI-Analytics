@@ -1,0 +1,4 @@
+{
+  "Name": "retailpulse_catalog",
+  "Description": "AWS Glue Data Catalog for the RetailPulse e-commerce data engineering project"
+}
